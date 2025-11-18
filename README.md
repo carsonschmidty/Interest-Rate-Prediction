@@ -6,7 +6,7 @@ based on macroeconomic indicators from Federal Reserve Economic Data (FRED) and 
 
 You will need a FRED api key to replicate this project.
 To beign, get your api key from: https://fredaccount.stlouisfed.org/apikey
-Store it in an environment variable within a .env file.
+Store it in a variable named FRED_API_KEY within a .env file.
 
 ## 📌 Project Goals
 - Build a monthly macroeconomic dataset with aligned mixed-frequency indicators
